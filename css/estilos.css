@@ -1,13 +1,31 @@
-
-#logo{
-    margin-bottom: 20px;
-    float: left;
-    width: 90px;
-    height: 70px;
+body{
+    color: black;
 }
 
-NAV{
-    margin-left: 600px;
+#Titulo1{
+    position: relative;
+    display: inline-block;
+    border: solid black 4px;
+    width: 50%;
+}
+
+#subtitulo{
+    position: relative;
+    display: inline-block;
+    border: solid black 4px;
+    width: 50%;
+}
+
+
+#logo1{
+    float: left;
+    width: 15%;
+}
+
+#NAV{
+    position: relative;
+    top: -20px;
+    margin-left: 70%;
 }
 
 .nav
@@ -26,4 +44,68 @@ NAV{
 
 #san_francisco{
     border-radius: solid black 6px;
+    width: 100%;
+  
 }
+
+#tex{
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+#Titulo2{
+    position: relative;
+    display: inline-block;
+    border: solid black 4px;
+    width: 50%;
+}
+
+#logo2{
+    float: left;
+}
+
+.texto{
+    position: relative;
+    display: inline-block;
+    height: 400px;
+    width: 700px;
+    color: black;
+    width: 50%;
+}
+
+#tiempo{
+    position: relative;
+    display: inline-block;
+    width: 44%;
+    height: 100%;
+    float: right;
+    top: -78px;
+}
+
+.pie{
+    position: relative;
+    margin: 20px;
+    display: inline-block;
+    width: 28%;
+    border: solid black 4px;
+    height: 200px;
+}
+
+/*        <div id="tiempo">
+        <aside>
+           
+                <h2>EL TIEMPO</h2>
+                
+
+                /*ENLACE DEL TIEMPO*/
+
+               /* <div class="enlaces"><img src="imagenes/"></div>
+                <div class="enlaces"><img src="imagenes/"></div>
+                <div class="enlaces"><img src="imagenes/"></div>
+                <div class="enlaces"><img src="imagenes/"></div>
+            
+        </aside>
+        </div>
+    */
