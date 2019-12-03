@@ -1,18 +1,17 @@
 body{
     color: black;
+    background-image: url("../imagenes/yellow_background.png");
 }
 
 #Titulo1{
     position: relative;
     display: inline-block;
-    border: solid black 4px;
     width: 50%;
 }
 
 #subtitulo{
     position: relative;
     display: inline-block;
-    border: solid black 4px;
     width: 50%;
 }
 
@@ -28,7 +27,6 @@ body{
     margin-left: 70%;
     color: black;
     text-decoration: none;
-
 }
 
 
@@ -76,7 +74,6 @@ body{
 #Titulo2{
     position: relative;
     display: inline-block;
-    border: solid black 4px;
     width: 50%;
 }
 
@@ -107,7 +104,6 @@ body{
     margin: 20px;
     display: inline-block;
     width: 28%;
-    border: solid black 4px;
     height: 200px;
     top: -59px;
 }
@@ -117,7 +113,6 @@ body{
     margin: 20px;
     display: inline-block;
     width: 28%;
-    border: solid black 4px;
     height: 200px;
     top: -38px;
 }
@@ -127,7 +122,6 @@ body{
     margin: 20px;
     display: inline-block;
     width: 28%;
-    border: solid black 4px;
     height: 200px;
 
 }
