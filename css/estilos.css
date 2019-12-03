@@ -26,6 +26,7 @@ body{
     position: relative;
     top: -20px;
     margin-left: 70%;
+    color: black;
 }
 
 .nav
@@ -34,13 +35,26 @@ body{
     position: relative;
     display: inline-block;
     margin: 10px;
+    color: black;
 
 }
 
 #principal{
     text-align: center;
-
+    width: 100%;
+    height: 50%;
 }
+
+#semi{
+    position: relative;
+    opacity: 0.6;
+    background-color: black;
+    top: -60px;
+    height: 56px;
+    color: white;
+    text-align: left;
+}
+
 
 #san_francisco{
     border-radius: solid black 6px;
@@ -84,28 +98,54 @@ body{
     top: -78px;
 }
 
-.pie{
+#pie{
     position: relative;
     margin: 20px;
     display: inline-block;
     width: 28%;
     border: solid black 4px;
     height: 200px;
+    top: -59px;
 }
 
-/*        <div id="tiempo">
-        <aside>
-           
-                <h2>EL TIEMPO</h2>
-                
+#pie2{
+    position: relative;
+    margin: 20px;
+    display: inline-block;
+    width: 28%;
+    border: solid black 4px;
+    height: 200px;
+    top: -38px;
+}
 
-                /*ENLACE DEL TIEMPO*/
+#pie3{
+    position: relative;
+    margin: 20px;
+    display: inline-block;
+    width: 28%;
+    border: solid black 4px;
+    height: 200px;
 
-               /* <div class="enlaces"><img src="imagenes/"></div>
-                <div class="enlaces"><img src="imagenes/"></div>
-                <div class="enlaces"><img src="imagenes/"></div>
-                <div class="enlaces"><img src="imagenes/"></div>
-            
-        </aside>
-        </div>
-    */
+}
+
+.fotos{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+}
+
+.foto{
+    border: solid 1px black;
+}
+
+.amigos{
+    margin-left: 4px;
+}
+
+.amigos2{
+    position: relative;
+    text-align: center;
+    top: -60px;
+}
