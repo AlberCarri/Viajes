@@ -163,8 +163,16 @@ body{
     top: -60px;
 }
 
+#flechita{
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
 #cont_03dd60a0f2683b68892945cac11790fd{
     position: relative;
     top: 20px;
     float: center;
+    width: 50%;
+    height: 50%;
 }
