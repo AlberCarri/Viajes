@@ -183,11 +183,15 @@ body{
     src: url("../fuentes/ballpark.woff");
 }
 
-#h2{
+h1{
     font-family: "Titulo2";
 }
 
 @font-face{
     font-family: "Titulo2";
     src: url("../fuentes/dayrom.ttf");
+}
+
+h2{
+    font-family: "Titulo2";
 }
