@@ -176,3 +176,18 @@ body{
     width: 50%;
     height: 50%;
 }
+
+
+@font-face{
+    font-family: "Titulo";
+    src: url("../fuentes/ballpark.woff");
+}
+
+#h2{
+    font-family: "Titulo2";
+}
+
+@font-face{
+    font-family: "Titulo2";
+    src: url("../fuentes/dayrom.ttf");
+}
