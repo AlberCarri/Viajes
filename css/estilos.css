@@ -98,6 +98,7 @@ body{
     margin-left: 40px;
     top: -110px;
     border:dotted black 4px;
+    background-image: url("../imagenes/descarga.jpg");
 }
 
 #elTiempo{
